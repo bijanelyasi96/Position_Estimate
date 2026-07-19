@@ -1,0 +1,41 @@
+﻿# MATLAB / Simulink temporary files
+slprj/
+*.slxc
+*.asv
+*.autosave
+*.slx~
+*.mdl~
+*.m~
+
+# Temporary Simulink build directories
+*_accel_rtw/
+*_raccel_rtw/
+*_rapid_rtw/
+*_sfun_rtw/
+
+# Keep *_ert_rtw because it contains generated embedded code
+
+# STM32 build outputs
+Debug/
+Release/
+build/
+*.o
+*.obj
+*.d
+*.elf
+*.axf
+*.bin
+*.hex
+*.map
+*.list
+
+# IDE and operating-system files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.log
+*.bak
