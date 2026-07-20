@@ -1,0 +1,21 @@
+-ID:/ESCT0111/Verification/Control/codegeneration/Position_Estimate
+-IC:/ProgramData/MATLAB/SupportPackages/R2025b/toolbox/shared/supportpackages/stm32/include
+-ID:/ESCT0111/Verification/Control/codegeneration/Position_Estimate/Open_Loop2024_ert_rtw
+-I"C:/Program Files/MATLAB/R2025b/extern/include"
+-I"C:/Program Files/MATLAB/R2025b/simulink/include"
+-I"C:/Program Files/MATLAB/R2025b/rtw/c/src"
+-I"C:/Program Files/MATLAB/R2025b/rtw/c/src/ext_mode/common"
+-I"C:/Program Files/MATLAB/R2025b/rtw/c/ert"
+-I"C:/Program Files/MATLAB/R2025b/toolbox/target/shared/armcortexmbase/scheduler/include"
+-I"C:/Program Files/MATLAB/R2025b/toolbox/target/shared/armcortexmbase/xcp/include"
+-I"C:/Program Files/MATLAB/R2025b/rtw/c/src/ext_mode/serial"
+-I"C:/Program Files/MATLAB/R2025b/toolbox/target/shared/svd/common/include"
+-IC:/ProgramData/MATLAB/SupportPackages/R2025b/3P.instrset/cmsis.instrset/CMSIS/Core/Include
+-IC:/ProgramData/MATLAB/SupportPackages/R2025b/3P.instrset/cmsis_dsp.instrset/Include
+-IC:/ProgramData/MATLAB/SupportPackages/R2025b/3P.instrset/cmsis_dsp.instrset/Include/dsp
+-ID:/ESCT0111/Verification/Control/codegeneration/Position_Estimate/Drivers/STM32F3xx_HAL_Driver/Inc
+-ID:/ESCT0111/Verification/Control/codegeneration/Position_Estimate/Drivers/STM32F3xx_HAL_Driver/Inc/Legacy
+-ID:/ESCT0111/Verification/Control/codegeneration/Position_Estimate/Drivers/CMSIS/Device/ST/STM32F3xx/Include
+-ID:/ESCT0111/Verification/Control/codegeneration/Position_Estimate/Drivers/CMSIS/Include
+-ID:/ESCT0111/Verification/Control/codegeneration/Position_Estimate/Core/Inc
+-I"C:/Users/mk128676/Desktop/Position_Estimation/New folder/Core/Inc"

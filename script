@@ -1,9 +1,9 @@
-config load "C:\Users\mk128676\Desktop\Position_Estimation\New folder\Open_Loop.ioc"
+config load "D:\ESCT0111\Verification\Control\codegeneration\Position_Estimate\Open_Loop.ioc"
 project toolchain STM32CubeIDE
 
 SetStructure Advanced
 
-project setCustomFWPath "C:\Users\mk128676\STM32Cube\Repository\STM32Cube_FW_F3_V1.11.4"
+project setCustomFWPath "C:\Users\be125564\STM32Cube\Repository\STM32Cube_FW_F3_V1.11.5"
 
 project generate 
 

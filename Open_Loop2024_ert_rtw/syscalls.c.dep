@@ -1,0 +1,2 @@
+syscalls.c.o: \
+ D:/ESCT0111/Verification/Control/codegeneration/Position_Estimate/STM32CubeIDE/Application/User/Core/syscalls.c
